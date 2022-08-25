@@ -1,0 +1,5 @@
+#ignore
+*.csv
+*.zip
+logs/
+utils/

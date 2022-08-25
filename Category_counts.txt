@@ -1,0 +1,16 @@
+Train category:
+ TECHNOLOGY       2441
+STACKOVERFLOW    1253
+CULTURE           963
+SCIENCE           713
+LIFE_ARTS         709
+Name: category, dtype: int64
+
+
+Test category:
+ TECHNOLOGY       204
+STACKOVERFLOW    103
+CULTURE           64
+SCIENCE           58
+LIFE_ARTS         47
+Name: category, dtype: int64
